@@ -19,13 +19,13 @@ Project Structure
 The game implements:
 1.Player movement with keyboard controls.
 2.Virus AI with pathfinding behavior
-Health and scoring systems.
-Level progression mechanics 
-Responsive visual rendering.
+3.Health and scoring systems.
+4.Level progression mechanics 
+5.Responsive visual rendering.
 
 How to Play
-Use arrow keys to move your character
-Press SPACE to spray sanitizer at viruses
-Avoid contact with viruses to maintain health
-Collect vaccine packages to restore health up to 3 max.
-Complete each level by eliminating all viruses.
+* Use arrow keys to move your character
+* Press SPACE to spray sanitizer at viruses
+* Avoid contact with viruses to maintain health
+* Collect vaccine packages to restore health up to 3 max.
+* Complete each level by eliminating all viruses.
