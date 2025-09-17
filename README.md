@@ -3,27 +3,24 @@ VIRUS INVADERS is a 2D OpenGL game developed in C++ where players combat viruses
 
 
 Game Overview
-Objective: Protect yourself from incoming viruses by spraying them with sanitizer
-Environment: Rendered park with pathways, flowers, and bushes
-Progression: 5 increasingly difficult levels with narrowing paths
-Scoring: Earn points by eliminating viruses and collecting health packs life. It is setting max 3.
+1. Objective: Protect yourself from incoming viruses by spraying them with sanitizer
+2. Environment: Rendered park with pathways, flowers, and bushes
+3. Progression: 5 increasingly difficult levels with narrowing paths
+4. Scoring: Earn points by eliminating viruses and collecting health packs life. It is setting max 3.
 
 Technical Implementation
-Built With:
-OpenGL for 2D graphics rendering
-GLUT (OpenGL Utility Toolkit) for window management
-C++ for game logic and mechanics
-Windows Multimedia API for sound effects
+1.Built With:OpenGL for 2D graphics rendering
+2.GLUT (OpenGL Utility Toolkit) for window management
+3.C++ for game logic and mechanics
+4.Windows Multimedia API for sound effects
 
 Project Structure
 
 The game implements:
-Player movement with keyboard controls.
-
-Virus AI with pathfinding behavior
+1.Player movement with keyboard controls.
+2.Virus AI with pathfinding behavior
 Health and scoring systems.
-
-Level progression mechanics
+Level progression mechanics 
 Responsive visual rendering.
 
 How to Play
