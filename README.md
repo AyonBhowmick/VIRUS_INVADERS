@@ -1,5 +1,7 @@
 # VIRUS_INVADERS
 VIRUS INVADERS is a 2D OpenGL game developed in C++ where players combat viruses in a park environment using sanitizer spray. This project demonstrates computer graphics concepts with interactive gameplay.
+
+
 Game Overview
 Objective: Protect yourself from incoming viruses by spraying them with sanitizer
 Environment: Rendered park with pathways, flowers, and bushes
